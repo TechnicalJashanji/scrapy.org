@@ -6,18 +6,17 @@ This is the website that runs on https://scrapy.org.
 Requirements
 ============
 
-This website is made with `Jekyll`_. The most universal way to install it is::
-
+This website is made with `Jekyll`_. The most universal way to install it is:
     bundle install
 
 Usage
 =====
 
-To start the web server locally auto-reloading when files change use::
+To start the web server locally auto-reloading when files change use:
 
     jekyll serve --watch
 
-The website is updated via the `Travis build`_ when merging to the ``master`` branch.
+The website was updated via the `Travis build`_ when merging to the ``master`` branch.
 
 .. _Travis build: https://travis-ci.org/scrapy/scrapy.org
 
